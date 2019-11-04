@@ -55,7 +55,7 @@ public class Knapsack {
 
         @Override
         public int compare(Node o1, Node o2) {
-            return o2.v - o2.v;
+            return o2.v - o1.v;
         }
     }
 
