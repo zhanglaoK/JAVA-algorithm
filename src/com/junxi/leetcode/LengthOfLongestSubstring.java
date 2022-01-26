@@ -1,5 +1,7 @@
 package com.junxi.leetcode;
 
+import java.util.Random;
+
 /**
  * leetcode第三题 3. 无重复字符的最长子串
  *
@@ -43,6 +45,15 @@ public class LengthOfLongestSubstring {
             }
         }
         return Math.max(maxLength,chars.length-leftIndex);
+    }
+
+
+    public static void main(String[] args) {
+        System.out.println(System.currentTimeMillis());
+        Random r = new Random(1);
+        int i = r.nextInt(100000);
+
+        System.out.println(i);
     }
 
 }

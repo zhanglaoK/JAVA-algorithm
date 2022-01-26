@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6d271b5-488d-4b5a-94af-4060e1b9d0bd" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="f6d271b5-488d-4b5a-94af-4060e1b9d0bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/junxi/leetcode/NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/junxi/leetcode/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/junxi/leetcode/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/junxi/leetcode/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/junxi/leetcode/SearchInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/junxi/leetcode/SearchRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/junxi/leetcode/SwapPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/META-INF/algorithm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/junxi/day04/RotateMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/junxi/day04/RotateMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/junxi/day04/SmallerEqualBigger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/junxi/day04/SmallerEqualBigger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/junxi/day05/IsBalancedTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/junxi/day05/IsBalancedTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/junxi/day05/IsBalancedTree$ReturnData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/junxi/day05/IsBalancedTree$ReturnData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/junxi/day05/IsBalancedTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/junxi/day05/IsBalancedTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/junxi/day05/PreInPosTraversal$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/junxi/day05/PreInPosTraversal$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/junxi/day05/PreInPosTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/junxi/day05/PreInPosTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/com/junxi/day08/MinPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/com/junxi/day08/MinPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/junxi/leetcode/LengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/junxi/leetcode/LengthOfLongestSubstring.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,15 +44,23 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -99,6 +125,8 @@
     <option name="width" value="1056" />
     <option name="height" value="846" />
   </component>
+  <component name="ProjectId" id="1wz0zxwblvlknQloaYP9NXCEvyy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -119,55 +147,30 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.RotateMatrix">
-    <configuration name="BalancedStringSplit04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.junxi.leetcode.difficulty.easy.BalancedStringSplit04" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.junxi.leetcode.difficulty.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DefangIPaddr03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.junxi.leetcode.difficulty.easy.DefangIPaddr03" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.junxi.leetcode.difficulty.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LengthOfLongestSubstring03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.junxi.leetcode.LengthOfLongestSubstring03" />
+  <component name="RunManager" selected="Application.NextPermutation">
+    <configuration name="LengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.junxi.leetcode.LengthOfLongestSubstring" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -179,12 +182,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.junxi.day04.PrintMatrix" />
+    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.junxi.leetcode.LongestPalindrome" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.junxi.day04.*" />
+          <option name="PATTERN" value="com.junxi.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.junxi.leetcode.NextPermutation" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.junxi.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,16 +221,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoSumForOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.junxi.leetcode.TwoSumForOne" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.junxi.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NextPermutation" />
+        <item itemvalue="Application.LengthOfLongestSubstring" />
+        <item itemvalue="Application.LongestPalindrome" />
+        <item itemvalue="Application.TwoSumForOne" />
         <item itemvalue="Application.RotateMatrix" />
-        <item itemvalue="Application.PrintMatrix" />
-        <item itemvalue="Application.BalancedStringSplit04" />
-        <item itemvalue="Application.DefangIPaddr03" />
-        <item itemvalue="Application.LengthOfLongestSubstring03" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -248,7 +289,68 @@
       <workItem from="1571388156566" duration="3497000" />
       <workItem from="1571916117700" duration="604000" />
       <workItem from="1572505890539" duration="2671000" />
+      <workItem from="1629446377127" duration="2717000" />
+      <workItem from="1629450607172" duration="594000" />
+      <workItem from="1629683084934" duration="4275000" />
+      <workItem from="1632372158001" duration="10030000" />
+      <workItem from="1634705065355" duration="2193000" />
+      <workItem from="1634792133426" duration="3686000" />
+      <workItem from="1634873105266" duration="29553000" />
+      <workItem from="1636346783402" duration="5246000" />
+      <workItem from="1640666289674" duration="8672000" />
+      <workItem from="1641472807637" duration="16443000" />
+      <workItem from="1642728998584" duration="4063000" />
     </task>
+    <task id="LOCAL-00001" summary="leetcode第二题">
+      <created>1632373213759</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632373213759</updated>
+    </task>
+    <task id="LOCAL-00002" summary="leetcode第3题">
+      <created>1632463868802</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632463868802</updated>
+    </task>
+    <task id="LOCAL-00003" summary="leetcode第6题">
+      <created>1632892018987</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632892018987</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第七第八题">
+      <created>1634709963528</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634709963528</updated>
+    </task>
+    <task id="LOCAL-00005" summary="增加第九题和第十一题">
+      <created>1635144069187</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635144069187</updated>
+    </task>
+    <task id="LOCAL-00006" summary="新增leetcode到15题">
+      <created>1635743127370</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1635743127370</updated>
+    </task>
+    <task id="LOCAL-00007" summary="新增leetcode到22题">
+      <created>1636092539469</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636092539469</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -290,7 +392,29 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leetcode第二题" />
+    <MESSAGE value="leetcode第3题" />
+    <MESSAGE value="leetcode第6题" />
+    <MESSAGE value="第七第八题" />
+    <MESSAGE value="增加第九题和第十一题" />
+    <MESSAGE value="新增leetcode到15题" />
+    <MESSAGE value="新增leetcode到22题" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增leetcode到22题" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
