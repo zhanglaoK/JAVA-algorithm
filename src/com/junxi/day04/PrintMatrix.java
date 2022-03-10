@@ -23,18 +23,18 @@ public class PrintMatrix {
         int tc = 0;
         int dr = matrix.length-1;
         int dc = matrix[0].length-1;
-        while (tr<dr && tc<dc){
+        while (tr<=dr && tc<=dc){
             printEdge(matrix,tr++,tc++,dr--,dc--);
         }
     }
 
     public static void printEdge(int [][]matrix,int tr,int tc,int dr,int dc){
         if(tr == dr){
-            for(int i = tc;i<dc;i++){
+            for(int i = tc;i<=dc;i++){
                 System.out.print(matrix[tr][i]+" ");
             }
         }else if(tc == dc){
-            for (int i = tr;i<dr;i++){
+            for (int i = tr;i<=dr;i++){
                 System.out.print(matrix[i][tc]+" ");
             }
         }else {

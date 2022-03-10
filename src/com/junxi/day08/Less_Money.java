@@ -39,7 +39,7 @@ public class Less_Money {
     }
 
     public static void main(String[] args) {
-        int[] arr = { 1,2,3};
+        int[] arr = { 10,20,30};
         System.out.println(lessMoney(arr));
     }
 
